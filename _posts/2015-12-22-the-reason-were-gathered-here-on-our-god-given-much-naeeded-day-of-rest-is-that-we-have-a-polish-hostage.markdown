@@ -5,6 +5,19 @@ tags: [frontpage, jekyll, blog]
 image: '/images/posts/8.jpg'
 ---
 
+<iframe
+    allow="microphone;"
+    width="350"
+    height="430"
+    src="https://console.dialogflow.com/api-client/demo/embedded/AIBot_PGI">
+</iframe>
+
+
+
+<iframe src="https://onedrive.live.com/embed?resid=2973085AC4F77E44%216502&amp;authkey=%21ADc3-nc9S-8Szp8&amp;em=2&amp;wdAr=1.7777777777777777&amp;wdEaa=1" width="1186px" height="691px" frameborder="0">포함된 <a target="_blank" href="https://office.com">Microsoft Office</a> 프레젠테이션, 제공: <a target="_blank" href="https://office.com/webapps">Office</a></iframe>
+
+
+
 I can remember about 4 years ago, I started to make HTML templates for ThemeForest. Unfortunately, I failed to pass the quality stage and I was not getting enough feedback from them. I was getting a general sentence saying that my item is not ready yet and the design quality is not unique enough.
 
 Fortunately, I succeed this time I have leaned and done things I have never done before that keeps me learn new stuff every single day and I want to share with you some tips about starting your own business creating themes like WordPress, Ghost, or Jekyll. I think these tips will work with any online business not only for themes.
